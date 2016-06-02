@@ -6,7 +6,7 @@ package com.mycompany.company;
  */
 public class App 
 {
-    pulic static void main( String[] args )
+    public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
